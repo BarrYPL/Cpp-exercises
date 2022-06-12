@@ -32,7 +32,7 @@ int main()
     {
         if (is_prime(i) && is_prime(i+6))
         {
-            std::cout << "Liczby pierwsze szóstkowe to: " << i << "," << i+6 << std::endl;
+            std::cout << "Liczby pierwsze szostkowe to: " << i << "," << i+6 << std::endl;
         }
     }
 }
